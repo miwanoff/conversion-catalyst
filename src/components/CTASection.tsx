@@ -9,7 +9,7 @@ const CTASection = () => {
   };
 
   return (
-    <section className="py-24">
+    <section className="py-24 section-light">
       <div className="container mx-auto px-6">
         <motion.div
           initial={{ opacity: 0, y: 30 }}

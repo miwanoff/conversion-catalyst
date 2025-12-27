@@ -22,7 +22,7 @@ const values = [
 
 const AboutSection = () => {
   return (
-    <section id="about" className="py-24">
+    <section id="about" className="py-24 section-dark">
       <div className="container mx-auto px-6">
         <div className="grid lg:grid-cols-2 gap-16 items-center">
           {/* Image */}
