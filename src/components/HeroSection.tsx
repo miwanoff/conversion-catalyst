@@ -34,9 +34,9 @@ const HeroSection = () => {
             transition={{ duration: 0.6, delay: 0.3 }}
             className="font-display text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold leading-tight mb-6"
           >
-            I Build Websites That{" "}
-            <span className="text-gradient">Convert Visitors</span> Into
-            Customers
+            I Build{" "}
+            <span className="text-gradient">Websites and Apps</span> That
+            Convert Visitors Into Customers
           </motion.h1>
 
           <motion.p
