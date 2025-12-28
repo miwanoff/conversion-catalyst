@@ -9,7 +9,7 @@ const HeroSection = () => {
   };
 
   return (
-    <section className="relative min-h-screen flex items-center justify-center overflow-hidden pt-20 section-dark">
+    <section className="relative min-h-screen flex items-center justify-center overflow-hidden pt-20">
       {/* Background decorations */}
       <div className="absolute inset-0 overflow-hidden">
         <div className="absolute top-1/4 -right-32 w-96 h-96 rounded-full bg-primary/10 blur-3xl animate-float" />
